@@ -1,6 +1,7 @@
 # qa-nge-cpp
 
 Curso C++ de Quark Academy 
+Becado por Nimble Giant Entertainment
 
 Módulos:
 1. C++ Elemental
