@@ -22,5 +22,6 @@ int main()
     {
         cout << "Promocionado";
     }
+    
     return 0;
 }
